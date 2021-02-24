@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    padding: 30px;
+    font-family: 'Dancing Script', cursive;
+    /* color: #ffffff; */
+}
+.carousel-item{
+    height: 90%;
+}
+
+p{
+    padding: 40px;
+    /* text-align: justify; */
+}
+
+h3{
+    font-style: italic;
+    font-family: 'Dancing Script', cursive;
+
+}
+   
+.band-footer{
+    background-color: #f9f9f9;
+    color: #727272;
+    padding: auto;
+
+}
+body{
+    /* font-family: 'Dancing Script', cursive; */
+    /* background: linear-gradient( #0c168b, #ffffff); */
+        font-family: 'Josefin Sans', sans-serif;
+}
+
+/* .embed-responsive{
+    text-align: center;
+} */
